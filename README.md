@@ -37,6 +37,12 @@ Installation and Configuration of Jenkins
 ![image](https://github.com/Santhoshkumarv26/CapStone-Project-Guvi/assets/51753619/389b2141-c0da-425a-bdc0-3de564434fa9)
 ![image](https://github.com/Santhoshkumarv26/CapStone-Project-Guvi/assets/51753619/148e7889-57a2-41b0-9039-221a50402ab1)
 
+AWS Configurations
+<img width="958" alt="image" src="https://github.com/Santhoshkumarv26/CapStone-Project-Guvi/assets/51753619/f9e79800-a859-4b00-b2bb-e65175445ddb">
+<img width="958" alt="image" src="https://github.com/Santhoshkumarv26/CapStone-Project-Guvi/assets/51753619/6626febd-ffd8-4824-a050-78f65b4a0fd3">
+
+
+
 
 
 
